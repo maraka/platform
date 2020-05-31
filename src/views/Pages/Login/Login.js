@@ -120,13 +120,13 @@ class LoginBase extends Component {
                     Check your email to recover your password!
                   </Alert>
                 </Card>
-                <Card className="text-white bg-primary py-5 d-md-down-none" style={{ width: '44%' }}>
+                <Card className="text-white bg-primary p-4 card" >
                   <CardBody className="text-center">
                     <div>
                       <h2>Sign up</h2>
-                      <p>Si aun no tienes una cuenta, registrate y te habilitaremos el acceso.</p>
+                      <p>Si aun no tienes una cuenta, registrate acá.</p>
                       <Link to="/register">
-                        <Button color="primary" className="mt-3" active tabIndex={-1}>Register Now!</Button>
+                        <Button color="primary" className="mt-3" active tabIndex={-1}>Registrarme</Button>
                       </Link>
                     </div>
                   </CardBody>
