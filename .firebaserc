@@ -1,6 +1,7 @@
 {
   "projects": {
     "default": "hackearelsistema",
-    "staging": "hackearelsistema"
+    "staging": "hackearelsistema",
+    "pdn": "hackearelsistema"
   }
 }

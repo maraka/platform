@@ -38,7 +38,7 @@ firebase init
 #take in account the public folder in react is called `build` when asked for
 ```
 
-* Create alias
+* Create alias (we user `dev` and `pdn` in the deployment scripts package.json)
 
 ``` bash
 firebase use --add
